@@ -1,0 +1,23 @@
+{
+  "problem": "\nI changed my university password this morning.\nNow my Windows laptop won't connect to campus Wi-Fi,\nbut my phone still works.\n",
+  "service_status": {
+    "wifi": "operational"
+  },
+  "wifi_check": true,
+  "diagnosis": {
+    "diagnosis": "Windows laptop Wi-Fi connectivity issue",
+    "cause": "Possible issue with Windows laptop Wi-Fi connectivity.",
+    "steps": [
+      {
+        "name": "Reconnect the laptop to the Wi-Fi network",
+        "description": "Go to Wi-Fi settings on the laptop. Choose the network where you expect to be able to connect to the Wi-Fi network. Connect to the Wi-Fi network using the network name and password entered on the laptop. Verify that the laptop is able to connect to the Wi-Fi network.",
+        "example": "Go to Wi-Fi settings on the laptop. Choose the network where you expect to be able to connect to the Wi-Fi network. Connect to the Wi-Fi network using the network name and password entered on the laptop. Verify that the laptop is able to connect to the Wi-Fi network."
+      },
+      {
+        "name": "Reinstall the Windows operating system",
+        "description": "Go to Control Panel on the laptop. Choose the option 'Reinstall Windows' from the list of options available for the option 'Control Panel' in the Control Panel window. Click on the 'Next' button in the Control Panel window to proceed with the 'Reinstall Windows' option selected in the Control Panel window. Click on the 'Finish' button in the Control Panel window to complete the 'Reinstall Windows' option selected in the Control Panel window.",
+        "example": "Go to Control Panel on the laptop. Choose the option 'Reinstall Windows' from the list of options available for the option 'Control Panel' in the Control Panel window. Click on the 'Next' button in the Control Panel window to proceed with the 'Reinstall Windows' option selected in the Control Panel window. Click on the 'Finish' button in the Control Panel window to complete the 'Reinstall Windows' option selected in the Control Panel window."
+      }
+    ]
+  }
+}
